@@ -1,5 +1,10 @@
 // 定义分类和网站链接的字典
 const LINKS = {
+        收藏夹: {
+ LibreTV: 'https://tt.1513.ip-ddns.com/',
+AList: 'https://aljnjrri.ap-northeast-1.clawcloudrun.com/',
+ 样板1: '替换网址',
+样板1: '替换网址',},
 	常用网站: {
 		Google: 'https://www.google.com/?hl=en-US',
 		Bing: 'https://www.bing.com/?setmkt=en-US&setlang=en-US',
