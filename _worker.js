@@ -229,7 +229,8 @@ const LINKS = {
 	},
 	电子邮箱: {
 		Gmail: 'https://mail.google.com/',
-		Outlook: 'https://outlook.live.com/',
+	 2925无限邮箱: 'https://2925.com/',
+	 Outlook: 'https://outlook.live.com/',
 		ProtonMail: 'https://proton.me/',
 		TutaMail: 'https://tuta.com/',
 		iCloudMail: 'https://www.icloud.com/mail',
