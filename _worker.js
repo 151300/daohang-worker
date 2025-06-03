@@ -3,7 +3,12 @@ const LINKS = {
         收藏夹: {
  LibreTV: 'https://tt.1513.ip-ddns.com/',
 AList: 'https://aljnjrri.ap-northeast-1.clawcloudrun.com/',
- 样板1: '替换网址',
+ 书源: 'https://151300.github.io/shuyuan/',
+TVBOX: 'https://151300.github.io/tvbox/',
+样板1: '替换网址',
+样板1: '替换网址',
+样板1: '替换网址',
+样板1: '替换网址',
 样板1: '替换网址',},
 	常用网站: {
 		Google: 'https://www.google.com/?hl=en-US',
